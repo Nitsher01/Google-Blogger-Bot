@@ -1,0 +1,15 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.log
+*.sql
+*.sqlite
+*client_secret.json*
+blogger.dat
+*googleblog_env*
+*__pycache__*
+*#OnThisDayInHistory* 
